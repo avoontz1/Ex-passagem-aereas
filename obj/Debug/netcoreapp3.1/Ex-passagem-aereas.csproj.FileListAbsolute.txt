@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\Ex-passagem-aereas\bin\Debug\netcoreapp3.1\Ex-passagem-aereas.exe
+C:\Users\dev\Desktop\Ex-passagem-aereas\bin\Debug\netcoreapp3.1\Ex-passagem-aereas.deps.json
+C:\Users\dev\Desktop\Ex-passagem-aereas\bin\Debug\netcoreapp3.1\Ex-passagem-aereas.runtimeconfig.json
+C:\Users\dev\Desktop\Ex-passagem-aereas\bin\Debug\netcoreapp3.1\Ex-passagem-aereas.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Ex-passagem-aereas\bin\Debug\netcoreapp3.1\Ex-passagem-aereas.dll
+C:\Users\dev\Desktop\Ex-passagem-aereas\bin\Debug\netcoreapp3.1\Ex-passagem-aereas.pdb
+C:\Users\dev\Desktop\Ex-passagem-aereas\obj\Debug\netcoreapp3.1\Ex-passagem-aereas.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Ex-passagem-aereas\obj\Debug\netcoreapp3.1\Ex-passagem-aereas.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Ex-passagem-aereas\obj\Debug\netcoreapp3.1\Ex-passagem-aereas.AssemblyInfo.cs
+C:\Users\dev\Desktop\Ex-passagem-aereas\obj\Debug\netcoreapp3.1\Ex-passagem-aereas.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Ex-passagem-aereas\obj\Debug\netcoreapp3.1\Ex-passagem-aereas.dll
+C:\Users\dev\Desktop\Ex-passagem-aereas\obj\Debug\netcoreapp3.1\Ex-passagem-aereas.pdb
+C:\Users\dev\Desktop\Ex-passagem-aereas\obj\Debug\netcoreapp3.1\Ex-passagem-aereas.genruntimeconfig.cache
